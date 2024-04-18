@@ -1,0 +1,1 @@
+Solo funciona para debian
